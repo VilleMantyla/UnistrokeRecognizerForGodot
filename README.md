@@ -1,4 +1,4 @@
-# Unistroke Recognizer For Godot
+# Unistroke Recognizer For Godot 3
 
 Simple demo of Unistroke Recognizer implementation in GDScript. There's only a few predefined gestures at this point:
 - vertical line
